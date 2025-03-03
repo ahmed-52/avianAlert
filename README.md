@@ -111,12 +111,12 @@ classifier = EfficientNetClassifier.load_pretrained()
 disease_prediction = classifier.predict('path/to/image.jpg')
 ```
 
-## Team & Contributions
+## Team
 
-- **Ahmed Abdulla**: Lead developer, implemented core ML models, architecture and UI/UX design
-- **Farhan Mashrur**: Dashboard development, data visualization, product strategy and business case development
-- **Suresh Kamath Bola**: Sustainability analysis, research on disease patterns, and business case development
-- **Kiyam Merali**:  Sustainability analysis, research on disease patterns, presentation development
+- **Ahmed Abdulla**
+- **Farhan Mashrur**
+- **Suresh Kamath Bola**
+- **Kiyam Merali**
 
 ## License
 
